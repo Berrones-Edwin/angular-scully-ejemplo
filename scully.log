@@ -1,0 +1,20 @@
+No configuration for route "/donuts/:donutId" found. Skipping
+
+----------------------------------
+Using stored unhandled routes!.
+   To discover new routes in the angular app use "npm run scully -- --scanRoutes"
+----------------------------------No configuration for route "/donuts/:donutId" found. Skipping
+
+
+----------------------------------
+Using stored unhandled routes!.
+   To discover new routes in the angular app use "npm run scully -- --scanRoutes"
+----------------------------------No configuration for route "/donuts/:donutId" found. Skipping
+
+
+----------------------------------
+Using stored unhandled routes!.
+   To discover new routes in the angular app use "npm run scully -- --scanRoutes"
+----------------------------------
+Route "/donuts/original-filled-original-kreme™" not provided by angular appRoute "/donuts/original-filled-chocolate-kreme™" not provided by angular app
+
