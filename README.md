@@ -47,3 +47,4 @@ To move on, stash your changes and checkout the `step2` branch.
 git stash //hides your changes you just made
 git checkout step2
 ```
+# angular-scully-ejemplo
