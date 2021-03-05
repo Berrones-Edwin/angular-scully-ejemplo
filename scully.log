@@ -18,3 +18,102 @@ Using stored unhandled routes!.
 ----------------------------------
 Route "/donuts/original-filled-original-kreme™" not provided by angular appRoute "/donuts/original-filled-chocolate-kreme™" not provided by angular app
 
+
+----------------------------------
+Using stored unhandled routes!.
+   To discover new routes in the angular app use "npm run scully -- --scanRoutes"
+----------------------------------
+The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/bunny-bum-mini"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/spring-chick-mini"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/flower-mini"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-with-spring-sprinkles-mini"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/original-filled-original-kreme™"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/original-filled-chocolate-kreme™"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/original-glazed-doughnut"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-glazed"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-glazed-with-sprinkles"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/oreo-cookies-and-kreme"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-with-kreme-filling"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/cake-batter-doughnut"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-custard-filled"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-raspberry-filled"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-lemon-filled"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/strawberry-iced-with-sprinkles"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/apple-fritter"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-with-kreme-filling"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-cake"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-raspberry-filled"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-chocolate-cake"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-blueberry-cake"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/cinnamon-apple-filled"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/cinnamon-bun"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/cinnamon-sugar"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-sour-cream"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/traditional-cake"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/chocolate-iced-glazed-cruller"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/cinnamon-twist"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/double-dark-chocolate"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/dulce-de-leche"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-cinnamon"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-cruller"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/maple-iced-glazed"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/mini-original-glazed-doughnuts"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/new-york-cheesecake"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/powdered-blueberry-filled"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/powdered-cake"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/powdered-cinnamon-cake"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/powdered-strawberry-filled"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/powdered-with-lemon-kreme"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/powdered-with-strawberry-kreme"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/strawberry-iced"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/original-glazed-doughnut-holes"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-cake-doughnut-holes"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-blueberry-cake-doughnut-holes"} is invalid.The plugin 'ngConfDonuts' needs to return handledRoutes with a route that starts with '/'. The route {"route":"donuts/glazed-chocolate-cake-doughnut-holes"} is invalid.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Puppeteer error while rendering "donuts/flower-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/spring-chick-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "donuts/bunny-bum-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+
+Puppeteer error while rendering "donuts/spring-chick-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/flower-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/chocolate-iced-with-spring-sprinkles-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/bunny-bum-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/spring-chick-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/flower-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/chocolate-iced-with-spring-sprinkles-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "donuts/bunny-bum-mini"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+
+----------------------------------
+Using stored unhandled routes!.
+   To discover new routes in the angular app use "npm run scully -- --scanRoutes"
+----------------------------------
+Route "/donuts/original-filled-original-kreme™" not provided by angular appRoute "/donuts/original-filled-chocolate-kreme™" not provided by angular app
+
+
+----------------------------------
+Using stored unhandled routes!.
+   To discover new routes in the angular app use "npm run scully -- --scanRoutes"
+----------------------------------
+Route "/donuts/original-filled-chocolate-kreme™" not provided by angular app
+Route "/donuts/original-filled-original-kreme™" not provided by angular app

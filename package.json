@@ -26,6 +26,7 @@
     "@scullyio/init": "^1.1.1",
     "@scullyio/ng-lib": "^1.0.0",
     "@scullyio/scully": "^1.0.0",
+    "node-fetch": "^2.6.1",
     "rxjs": "~6.6.3",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"

@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { TransferStateService } from '@scullyio/ng-lib';
 import { pluck, switchMap, tap } from 'rxjs/operators';
 import { environment } from '../../environments/environment';
 
@@ -12,10 +13,22 @@ import { environment } from '../../environments/environment';
 export class DonutComponent implements OnInit {
     donut: any = null;
 
-    constructor(private route: ActivatedRoute, private http: HttpClient) {
-        const donut$ = this.route.parent.params.pipe(
-            pluck('donutId'),
-            switchMap(id => this.http.get<any>(`${environment.API.BASE_URL}/donuts/${id}`)),
+    constructor(
+        private route: ActivatedRoute,
+        private http: HttpClient,
+        private transferState: TransferStateService,
+    ) {
+        // const donut$ = this.route.parent.params.pipe(
+        //     pluck('donutId'),
+        //     switchMap(id => this.http.get<any>(`${environment.API.BASE_URL}/donuts/${id}`)),
+        // );
+        // Cachear data
+        const donut$ = this.transferState.useScullyTransferState(
+            'donut',
+            this.route.parent.params.pipe(
+                pluck('donutId'),
+                switchMap(id => this.http.get<any>(`${environment.API.BASE_URL}/donuts/${id}`)),
+            ),
         );
 
         donut$.subscribe(res => {
